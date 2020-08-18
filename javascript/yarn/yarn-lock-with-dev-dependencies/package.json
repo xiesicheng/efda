@@ -5,7 +5,7 @@
   "author": "continuous-security <contact@continuous-security.org>",
   "description": "An example project to test dependency analysis tools with different dependencies specified in yarn.lock.",
   "dependencies": {
-    "jquery": "3.0.0-alpha1",
+    "jquery": "3.5.0",
     "boom": "",
     "console-io": "2.6.3",
     "cookie-signature": "1.0.2"
