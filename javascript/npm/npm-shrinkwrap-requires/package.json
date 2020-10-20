@@ -10,7 +10,7 @@
     "cryptiles": ">=2.0.0 <3.0.0",
     "hoek": ">=2.0.0 <3.0.0",
     "sntp": ">=1.0.0 <2.0.0",
-    "minimatch": ">=2.0.0 <2.1.0",
+    "minimatch": ">=3.0.2",
     "brace-expansion": ">=1.0.0 <2.0.0",
     "balanced-match": ">=0.4.1 <0.5.0",
     "concat-map": "0.0.1",
